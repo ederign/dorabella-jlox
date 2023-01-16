@@ -33,6 +33,7 @@ public class Lox {
         if(hadError){
             System.exit(65);
         }
+
     }
 
     private static void run(String source) {
